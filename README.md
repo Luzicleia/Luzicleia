@@ -3,7 +3,7 @@
 <p align="left"> 
    Olá! Sou a Luzicleia, apaixonada por tecnologia e atualmente em transição de carreira para a área de desenvolvimento. 
  
-- 🎓 Cursando primeiro semestre de *Engenharia de Software*
+- 🎓 Cursando primeiro semestre de *Ciência da Computação*
 - 🚀 Em constante aprendizado e buscando minha primeira oportunidade na área de tech 
 </p>
 
